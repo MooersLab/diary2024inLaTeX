@@ -136,9 +136,14 @@ The following are perhaps the most popular general purpose editors that have gre
 
 TextMate for the Mac does not get enough love these days.
 It starts lightning fast.
-It is still the editor that I open most frequently, although I am trying to migrate to Emacs.
-
+It is still the editor that I open most frequently, although I am migrating to Emacs.
 Emacs is the most configurable editors, thanks to elisp and a dedicated developer community.
+I view Vim as the penultimate editor and Emacs as the ultimate one.
+That is, Vim is a good step stone to Emacs.
+Vim is great but there is more to my needs than modal editing.
+I used the evil-mode and Vim key binding in Emacs for a year, but then I switched to the Emacs keybindings and have not looked back.
+They look more intimidating until you understand their logic.
+There is no editor more advanced this Emacs.
 
 ### Emacs
 
