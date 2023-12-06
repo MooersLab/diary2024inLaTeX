@@ -115,7 +115,7 @@ All sections for a month are in a chapter subfolder in the Content folder.
 ## On-line editor
 
 I recommend using the on-line editor Overleaf for the smoothest operation.
-I have been editing this document on Overleaf for six years.
+I have been editing this document on Overleaf for seven years.
 You do NOT have to run each of the steps of compiling separately.
 You just click a button and the latex and bibtex compilers are run seemlessly.
 I store the URL for this project in my private home page for rapid access.
@@ -200,6 +200,17 @@ See the end of this [slideshow](https://github.com/MooersLab/BerlinEmacsAugust20
 For the Jupyter users, you can likewise use GhostText to edit code and markdown cells with your favorite editor.
 See [slideshow](https://github.com/MooersLab/DSW22ghosttext) about this exciting topic.
 See corresponding [video](https://mediasite.ouhsc.edu/Mediasite/Channel/python/watch/4da0872f028c4255ae12935655e911321d).
+
+## Speech-to-text may triple your productivity
+
+I have been using the Google Chrome plugin Voice In Plus since mid-August 2023 to dictate much of my daily writing because I am a slow typist.
+It works in any text area in any browser window.
+I paid $48/yr to gain access to the abilityt to add cutstom commands ,which has reduced the word error rate signficantly.
+My commands are found is this [section](https://github.com/MooersLab#voice-computing).
+This section includes links to several talks on this subject.
+This switch in workflow has tripled my monthly word count. 
+I am still exploring what is  sustainable and reasonable.
+
 
 ## Related projects of possible interest
 
