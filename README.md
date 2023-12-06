@@ -3,7 +3,7 @@
 ## What is this?
 
 This repo contains a template book with 366 blank tex files, one for each day of this leap year.
-These tex files are collated and rendered into a PDF with latex and bibtex compilers.
+These tex files are collated and rendered into a PDF with LaTeX compilers.
 It is set up for 2024.
 It is configured to automatically generate the following:
 
