@@ -25,6 +25,15 @@ It is configured to automatically generate the following:
 
 The document is based on the Springer book format, but it has a 7 by 9 inch area for writing with conservative margins to save paper.
 
+## Configuration on Overleaf
+
+The compiled to a PDF with the following settings on Dec. 6, 2023.
+
+ Under Menu in the upper left, select the following:
+
+- Compiler: LuaLaTeX
+- Tex Live version: 2023
+- Main document: main.tex
 
 ## What is this good for?
 
