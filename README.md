@@ -233,9 +233,10 @@ See the corresponding [video](https://mediasite.ouhsc.edu/Mediasite/Channel/pyth
 
 I have been using the Google Chrome plugin Voice In Plus since mid-August 2023 to dictate much of my daily writing because I am a slow typist.
 It works in any text area in any browser window.
-I paid $48/yr to gain access to the ability to add custom commands, which has reduced the word error rate significantly.
-My commands are found in this [section](https://github.com/MooersLab#voice-computing).
-This section includes links to several talks on this subject.
+I paid $38/yr to access the ability to add custom commands, which has significantly reduced the word error rate.
+My customized voice commands are found in this [section](https://github.com/MooersLab#voice-computing).
+
+This section of the landing page includes links to several of my talks on this subject.
 This switch in workflow has tripled my monthly word count. 
 I am still exploring what is sustainable and reasonable.
 I plan to move to an open-source language model as soon as possible.
