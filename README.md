@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=diary2024inLaTeX&message=0.1&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=diary2024inLaTeX&message=0.2&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -260,7 +260,7 @@ I plan to move to an open-source language model as soon as possible.
 
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
-| Version 0.2 |  Added funding  and update table                                                                                                             | 2024 May 5        |
+| Version 0.2 |  Added funding  and update table. Extensive edits of the README.md.                                                                        | 2024 May 5           |
 
 ## Funding
 - NIH: R01 CA242845, R01 AI088011
